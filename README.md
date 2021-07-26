@@ -7,3 +7,5 @@ This project is dedicated to analyse the sentiment of tweeter users. Sentiment a
 - Nltk and textblob for text analysis.
 - Re for regular expressions and,
 - Tweepy for extracting tweets from Twitter API.
+
+
